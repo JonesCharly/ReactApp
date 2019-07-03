@@ -1,0 +1,15 @@
+.cardBlc {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+    
+}
+
+.cards {
+    width: 18em;
+    height: 22em;
+}
+
+Img  {
+    height: 8em;
+}
